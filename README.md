@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Microsoft Power BI para Data Science 2.0
-=======
 # Microsoft Power BI Para Data Science  2.0
->>>>>>> 6d7fb33da960b7a3079490f3feb0888981574fc7
 
 O curso, ministrado pela Data Science Academy, mostra os primeiros passos sobre como fazer a transição do Business Intelligence tradicional para as análises preditivas com Data Science e Machine Learning.
 
@@ -20,4 +16,3 @@ O curso, ministrado pela Data Science Academy, mostra os primeiros passos sobre 
 <center><img src="https://user-images.githubusercontent.com/67449365/93399993-2121e700-f855-11ea-960d-1a6a277a9e70.jpg" alt="" width="800"></center>
 
 [Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-03)
-
