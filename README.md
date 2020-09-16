@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Microsoft Power BI para Data Science 2.0
+=======
+# Microsoft Power BI Para Data Science  2.0
+>>>>>>> 6d7fb33da960b7a3079490f3feb0888981574fc7
 
 O curso, ministrado pela Data Science Academy, mostra os primeiros passos sobre como fazer a transição do Business Intelligence tradicional para as análises preditivas com Data Science e Machine Learning.
 
