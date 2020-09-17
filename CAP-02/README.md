@@ -20,13 +20,17 @@ Seu gerente precisa das seguintes informações:
 
 Além  disso,  pode  ser  interessante, se  o  CEO  puder  visualizar  o *total  de  vendas  por estado* e se as *vendas estão acima ou abaixo da média*. Seu gerente já sabe que um assunto será abordado pelo CEO durante a apresentação. O CEO está avaliando se *continua ou não com a venda de automóveis da marca Jaguar* e ele gostaria de saber *como evoluíram as vendas de automóveis deste fabricante por ano e por estado*.
 
+
 ## Dashboard realizado
+
+**Visão Geral**
 <center><img src="https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-02/Projeto1.jpg" alt ="Dashboard de vendas de empresa fictícia de automóveis" width="800"></center>
 
-**Visão vendas por estado - São Paulo**
+**Visão Vendas por Estado - São Paulo**
 <center><img src="https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-02/VendasEstado.jpg" alt ="Dashboard de vendas para estado de SP" width="800"></center>
 
-**Visão vendas - Jaguar**
+**Visão Vendas - Jaguar**
 <center><img src="https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-02/VendasJaguar.jpg" alt ="Dashboard de vendas Jaguar" width="800"></center>
 
 
+[Arquivos Power BI](https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-02/Projeto1.pbix)
