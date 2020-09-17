@@ -20,6 +20,6 @@ O curso, ministrado pela Data Science Academy, mostra os primeiros passos sobre 
 ## Estudo de caso 3:
 ### Relatório de Vendas, Custo, Margem de Lucro e KPI
 
-<center><img src="https://user-images.githubusercontent.com/67449365/93417539-ce5d2500-f87e-11ea-8b34-3a6c1e79b56e.jpg" alt="" width="800"></center>
+<center><img src="https://user-images.githubusercontent.com/67449365/93517606-16715b80-f902-11ea-9b43-1d9fdd16c57c.jpg" alt="" width="800"></center>
 
 [Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-04)
