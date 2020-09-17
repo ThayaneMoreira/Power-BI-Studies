@@ -4,7 +4,7 @@
 **Definição do Problema de Negócio**
 
 Reproduzir o seguinte dashboard:
-<center><img src="https://github.com/ThayaneMoreia/Power-BI-Studies/blob/master/CAP-04/exercicio.png" alt ="Dashboard a ser reproduzido" width="800"></center>
+<center><img src="https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-04/exercicio.png" alt ="Dashboard a ser reproduzido" width="800"></center>
 
 Sua fonte de dados é um [arquivo CSV](https://github.com/ThayaneMoreia/Power-BI-Studies/blob/master/CAP-04/Custos.csv).
 
@@ -23,6 +23,6 @@ Finalmente, para o gráfico de KPI, como indicador foi utilizada a média da mar
 ## Dashboard realizado
 
 **Visão geral**
-<center><img src="https://github.com/ThayaneMoreia/Power-BI-Studies/blob/master/CAP-04/Projeto3.jpg" alt ="Dashboard de vendas, custo, margem de lucro e KPI" width="800"></center>
+<center><img src="https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-04/Projeto3.jpg" alt ="Dashboard de vendas, custo, margem de lucro e KPI" width="800"></center>
 
 [Arquivos Power BI](https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-04/Projeto3.pbix)
