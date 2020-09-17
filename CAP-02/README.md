@@ -23,10 +23,10 @@ Além  disso,  pode  ser  interessante, se  o  CEO  puder  visualizar  o *total 
 ## Dashboard realizado
 <center><img src="https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-02/Projeto1.jpg" alt ="Dashboard de vendas de empresa fictícia de automóveis" width="800"></center>
 
-**Visão vendas por estado**
+**Visão vendas por estado - São Paulo**
 <center><img src="https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-02/VendasEstado.jpg" alt ="Dashboard de vendas para estado de SP" width="800"></center>
 
-**Visão vendas Jaguar**
+**Visão vendas - Jaguar**
 <center><img src="https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-02/VendasJaguar.jpg" alt ="Dashboard de vendas Jaguar" width="800"></center>
 
 
