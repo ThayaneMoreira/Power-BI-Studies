@@ -7,7 +7,7 @@
 Reproduzir o seguinte dashboard:
 <center><img src="https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-05/exercicio.png" alt ="Dashboard a ser reproduzido" width="800"></center>
 
-Sua fonte de dados é um [arquivo excel](https://github.com/ThayaneMoreia/Power-BI-Studies/blob/master/CAP-05/Desemprego-2010-2015.xlsx).
+Sua fonte de dados é um [arquivo Excel](https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-05/Desemprego-2010-2015.xlsx).
 
 
 Os gráficos a serem apresentados serão:
