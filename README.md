@@ -23,3 +23,10 @@ O curso, ministrado pela Data Science Academy, mostra os primeiros passos sobre 
 <center><img src="https://user-images.githubusercontent.com/67449365/93517606-16715b80-f902-11ea-9b43-1d9fdd16c57c.jpg" alt="" width="800"></center>
 
 [Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-04)
+
+## Estudo de caso 4:
+### Dashboard Analítico e IA no Power BI - Evolução e Previsão do Desemprego ao Longo do Tempo
+
+<center><img src="https://user-images.githubusercontent.com/67449365/93550561-0ed1a700-f942-11ea-9785-0496a3300906.jpg" alt="" width="800"></center>
+
+[Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-05)
