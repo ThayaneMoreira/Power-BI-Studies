@@ -31,9 +31,16 @@ O curso, ministrado pela Data Science Academy, mostra os primeiros passos sobre 
 
 [Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-05)
 
-## Estudo de caso 4:
+## Estudo de caso 5:
 ### Dashboard Analítico - Geolocalização e Mapeamento de Clientes por Saldo Bancário
 
 <center><img src="https://user-images.githubusercontent.com/67449365/93839991-2cb24b00-fc65-11ea-8647-468f93492dcb.jpg" alt="" width="800"></center>
 
 [Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-06)
+
+## Estudo de caso 6:
+### Dashboard Analítico - Gastos de Operadoras de Planos de Saúde
+
+<center><img src="https://user-images.githubusercontent.com/67449365/94219543-75644100-febd-11ea-9925-a726a4096644.jpg" alt="" width="800"></center>
+
+[Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-07)
