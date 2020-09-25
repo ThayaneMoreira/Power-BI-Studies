@@ -39,8 +39,8 @@ O curso, ministrado pela Data Science Academy, mostra os primeiros passos sobre 
 [Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-06)
 
 ## Estudo de caso 6:
-### Dashboard Analítico - Gastos de Operadoras de Planos de Saúde
+### Dashboard Analítico - Gastos de Operadora de Plano de Saúde
 
-<center><img src="https://user-images.githubusercontent.com/67449365/94219543-75644100-febd-11ea-9925-a726a4096644.jpg" alt="" width="800"></center>
+<center><img src="https://user-images.githubusercontent.com/67449365/94271056-74f89400-ff17-11ea-998e-44187ff20c34.jpg" alt="" width="800"></center>
 
 [Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-07)

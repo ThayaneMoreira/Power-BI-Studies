@@ -26,7 +26,7 @@ Seu trabalho é responder às perguntas dos diretores em uma única visualizaç�
 
 **Visão geral**
 
-<center><img src="https://user-images.githubusercontent.com/67449365/94219543-75644100-febd-11ea-9925-a726a4096644.jpg" alt ="Dashboard Analítico - Gastos de Operadoras de Planos de Saúde" width="800"></center>
+<center><img src="https://user-images.githubusercontent.com/67449365/94271056-74f89400-ff17-11ea-998e-44187ff20c34.jpg" alt ="Dashboard Analítico - Gastos de Operadora de Plano de Saúde" width="800"></center>
 
 
 [Arquivos Power BI](https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-07/Projeto6.pbix)
