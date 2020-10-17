@@ -44,3 +44,17 @@ O curso, ministrado pela Data Science Academy, mostra os primeiros passos sobre 
 <center><img src="https://user-images.githubusercontent.com/67449365/94271056-74f89400-ff17-11ea-998e-44187ff20c34.jpg" alt="" width="800"></center>
 
 [Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-07)
+
+## Estudo de caso 7:
+### Dashboard de Vendas - Layout para smartphones
+
+<center><img src="https://user-images.githubusercontent.com/67449365/96325291-1053c500-0ffd-11eb-9b9b-4c814fc60457.jpg" alt="" width="800"></center>
+
+[Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-08)
+
+## Estudo de caso 8:
+### Análise de Dados de E-Commerce com Power BI e Google Analytics
+
+<center><img src="https://user-images.githubusercontent.com/67449365/96321728-d975b300-0fec-11eb-8722-abd0525db7b5.jpg" alt="" width="800"></center>
+
+[Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-09)
