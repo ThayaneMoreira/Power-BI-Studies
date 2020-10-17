@@ -6,12 +6,12 @@
 Seu dashboard deve conter os seguintes gráficos (escolha a opção de gráfico que
 desejar, mas lembre-se que a visualização será através de smartphone):
 
-1 - Total monetário de vendas por dia
-2 - Total monetário de vendas por cidade
-3 - Média de valor monetário de vendas por estado
-4 - Média de valor monetário de vendas por produto
-5 - Total de unidades vendidas por estado e por dia
-6 - Total de unidades vendidas por produto
+1. Total monetário de vendas por dia
+2. Total monetário de vendas por cidade
+3. Média de valor monetário de vendas por estado
+4. Média de valor monetário de vendas por produto
+5. Total de unidades vendidas por estado e por dia
+6. Total de unidades vendidas por produto?
 
 Sua fonte de dados é um [arquivo csv](https://github.com/ThayaneMoreira/Power-BI-Studies/blob/master/CAP-08/dados_vendas.csv)
 
