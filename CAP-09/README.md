@@ -1,4 +1,4 @@
-# Estudo de caso 8
+# Mini-Lab
 ## Análise de Dados de E-Commerce com Power BI e Google Analytics
 
 **Definição do Problema de Negócio**
@@ -21,7 +21,7 @@ Sua fonte de dados é um [arquivo csv](https://github.com/ThayaneMoreira/Power-B
 
 <center><img src="https://user-images.githubusercontent.com/67449365/96321859-4c7f2980-0fed-11eb-84a4-0b14869ac898.jpg" alt ="Análise de Dados de E-Commerce com Power BI e Google Analytics" width="800"></center>
 
-Após análise do dashboard criado, o Gestor de Marketing solicitou ainda um KPI de de visualiações da página para acompanhamento de metas diárias.
+Após análise do dashboard criado, o Gestor de Marketing solicitou ainda um KPI de visualiações da página para acompanhamento de metas diárias.
 
 <center><img src="https://user-images.githubusercontent.com/67449365/96321728-d975b300-0fec-11eb-8722-abd0525db7b5.jpg" alt="" width="800"></center>
 

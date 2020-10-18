@@ -52,9 +52,16 @@ O curso, ministrado pela Data Science Academy, mostra os primeiros passos sobre 
 
 [Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-08)
 
-## Estudo de caso 8:
+## Mini-Lab:
 ### Análise de Dados de E-Commerce com Power BI e Google Analytics
 
 <center><img src="https://user-images.githubusercontent.com/67449365/96321728-d975b300-0fec-11eb-8722-abd0525db7b5.jpg" alt="" width="800"></center>
 
 [Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-09)
+
+## Estudo de caso 8:
+### Dashboard de Vendas - Power BI e Banco de Dados PostgreSQL
+
+<center><img src="https://user-images.githubusercontent.com/67449365/96387848-867e3600-117b-11eb-90c4-a737323e72e5.jpg" alt="" width="800"></center>
+
+[Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-10)
