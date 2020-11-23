@@ -65,3 +65,10 @@ O curso, ministrado pela Data Science Academy, mostra os primeiros passos sobre 
 <center><img src="https://user-images.githubusercontent.com/67449365/96387848-867e3600-117b-11eb-90c4-a737323e72e5.jpg" alt="" width="800"></center>
 
 [Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-10)
+
+## Estudo de caso 9:
+### Análise Estatística do Valor de Venda de Automóveis
+
+<center><img src="https://user-images.githubusercontent.com/67449365/100021269-02455100-2dc0-11eb-966a-85c11271d473.jpg" alt="" width="800"></center>
+
+[Arquivos](https://github.com/ThayaneMoreira/Power-BI-Studies/tree/master/CAP-11)
